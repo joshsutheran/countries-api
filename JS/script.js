@@ -19,7 +19,7 @@ export const countriesContainer = document.querySelector(".country--grid")
 // Country Info Page
 export const countryInfoPage = document.querySelector(".country--info--page")
 // Global Variables
-export let selectedContinent
+export let selectedContinent = 'All';
 
 // Continent Selector
 
