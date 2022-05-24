@@ -1,0 +1,7 @@
+.error--handler {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90vw;
+  font-size: 1.4rem;
+}
