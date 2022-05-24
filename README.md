@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [countries-f9aar2kb3-joshsutheran.vercel.app]
+- Live Site URL: https://countries-api-weld-kappa.vercel.app/
 
 ## My process
 
